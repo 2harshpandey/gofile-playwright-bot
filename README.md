@@ -1,0 +1,1 @@
+# gofile-playwright-bot
