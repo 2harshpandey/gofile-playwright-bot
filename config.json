@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "PLAYWRIGHT_BROWSERS_PATH": "0"
+    },
+    "commands": [
+      "playwright install chromium"
+    ]
+  }
+}
